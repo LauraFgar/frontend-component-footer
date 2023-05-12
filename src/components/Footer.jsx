@@ -13,6 +13,8 @@ ensureConfig([
   'LOGO_TRADEMARK_URL',
 ], 'Footer component');
 
+console.log('FOOTER 2 GW');
+
 const EVENT_NAMES = {
   FOOTER_LINK: 'edx.bi.footer.link',
 };
