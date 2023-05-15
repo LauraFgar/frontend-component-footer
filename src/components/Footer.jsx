@@ -43,6 +43,7 @@ class SiteFooter extends React.Component {
     const showLanguageSelector = supportedLanguages.length > 0 && onLanguageSelected;
     const { config } = this.context;
 
+    console.log("FOOTER GW");
     return (
       <footer
         role="contentinfo"
